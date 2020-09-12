@@ -149,3 +149,4 @@ def duplicate_todo(todoId):
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0')
+    rook.start(token=' [1e621051e61fdbdfdb6bc30784ad654038605ff79578949fc36e1d9d7cb3696f]', labels={"env":"dev"})
